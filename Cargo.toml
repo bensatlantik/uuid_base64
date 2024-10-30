@@ -1,0 +1,11 @@
+[package]
+name = "uuid_base64"
+version = "0.1.0"
+edition = "2021"
+authors = ["Ben Santora <bensatlantik>"]
+description = "UUID shortener"
+repository = "https://github.com/bensatlantik/uuid_base64"
+
+[dependencies]
+uuid = { version = "1.0", features = ["v4"] }
+base64 = "0.13"
