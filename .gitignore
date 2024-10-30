@@ -1,0 +1,7 @@
+# Ignore Rust compilation files
+/target/
+Cargo.lock
+
+# Ignore IDE specific files
+.idea/
+.vscode/
