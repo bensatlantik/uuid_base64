@@ -1,6 +1,6 @@
 [package]
 name = "uuid_base64"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 authors = ["Ben Santora <bensatlantik@gmail.com>"]
 description = "UUID shortener"
