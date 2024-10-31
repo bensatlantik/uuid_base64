@@ -1,0 +1,4 @@
+# Force GitHub to recognize the project as Rust
+*.rs linguist-language=Rust
+Cargo.toml linguist-language=Rust
+Cargo.lock linguist-language=Rust
